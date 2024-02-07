@@ -1,0 +1,131 @@
+Date 6th feb, 2024
+
+Vikas chaudhary 
+btech - 2017 - IT/CSE
+2 CORPOARTE- SR BACKEND ENGG
+freelance - full stack
+tech stack - java, c#, js, aws , devops , sitecore, react. node express.
+ edtech - pepcoding .coding blocks 
+ the applied school - US, THAPAR 
+ --------------------------------------
+
+ Full Stack Web dev  MERN
+ FE+BE 
+
+ FE - html , css , js , js dom , dom bom api, react (ui library-facebook)
+ BE - Node js , express , mongodb , 
+
+
+ -------------------------------------------------------------
+
+ DB - SQL AND NOSQL
+ PROJECT -SQL 
+ PROJECT - NOSQL = MONGODB 
+
+ ARCHITECTURE - MONO VC MICROS
+ MONO-PROJECT
+ MICRO- PROJECT
+
+ ------------------------------------------------------------
+
+ LINUX
+
+ AWS - CLOUD - DEPLOYMENT
+
+ DEVOPS - DEV +OPER = SDLC - AUTOMATE (KUBERNETES AND DOCKER)
+ DEV + CODE - TESTER - TEST - DEV - -TESTER - CODE REVIEW - SERVER - DEPLOY - END USER 
+
+
+ CI/CD -
+
+ DEV -ONE LINE CODE - REAL -TEST - CODE REVIERW - SERVER - DEPLOY - END USER - REAL
+ TOOLS - K8S, DOCKER 
+
+
+ + System design (lld + hld )
+ lld - oops
+ - design pattern 23
+ - solid principles
+ ----------------------------------
+ hld - case study
+
+ +
+  DSA (DATA STRUCTURES AND ALGI)- leetcode codechef codeforce - 400-500 ques
+  + core cs subjects (dbms,os,cn)
+  ------------------------------------------------------------------
+
+  base - javascript
+  offical doc - 
+
+  projects 
+
+  google drive clone
+  twitter full stack clone
+  vdo calling app(real)
+  netflix clone
+  student learning tool 
+
+  ----------------------------------------------------------------------------
+  ----------------------------------------------------------------------------------------
+
+  software/utilities -- text editor , run time env 
+  vs code 
+  vs code -setting - word wrap
+  extension - live server , code runner , prettier
+  -----------------------------------------------------------------------------------------
+
+  js - web apps
+  js = mobile - react native 
+  js - desktop - electron js - 
+  js - ml -  ml js 5
+
+
+  --------------------------------------------------------------
+  html
+  css
+  tailwind css 
+  javascript
+  javascript DOM/BOM api
+  react
+  redux 
+  backend -
+  node
+  express
+  rest
+SQL
+mongodb
+MONO
+MICROS
+devops - LINUX
+aws ec 2 pm2
+K8S
+docker 
+testing - junit jmocha
+----------------------------------------------------
+7017440704 vikas chaudhary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

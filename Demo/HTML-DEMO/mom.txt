@@ -1,0 +1,15 @@
+html
+why where how
+when
+boiler plate code
+tags
+attribute
+h1-h6 p b s i u sub sup
+ol ul li br hr a img
+table
+audio video
+forms input html5 semantics
+
+
+Q1- what is html?
+html =content 

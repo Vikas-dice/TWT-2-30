@@ -1,0 +1,68 @@
+orientation done 
+Syllabus 
+
+html
+css
+TAILWIND CSS/BOOTSTRAP
+git github - version controlling
+javascript
+javascript dom
+dom bom api
+
+React 
+redux
+
+backend 
+Node
+express
+rest
+sql db 
+orm-mongoose
+nosql db -mongodb
+
+mono ARCHITECTURE- projects
+microservices - projects
+
+sdlc - automate -devops TOOLS
+linux 
+aws
+k8s 
+docker 
+
+
+testing - junit jmocha 
+
+
+--------------------------------------------------
+DSA -c++/java
+Leetcode , codechef , codeforces
+
+---------------------------------------------------
+Date 7th feb , 2024
+
+html
+-CLIENT SERVER ARCHITECTURE 
+- BROWSER TOOLS
+-HTML (H1-H6, P, B, S ,I U, OL,UL,SUB ,SUP)
+
+-------------------------------------------------------
+
+html- hYPERTEXT MARKUP LANGUAGE
+
+tag - <dice>
+<chacha>
+
+------------------------------------------
+files 
+photo.jpeg
+music.mp3
+video.mp4
+video.mkv
+file.js 
+file.css
+index.html
+
+
+
+
+
