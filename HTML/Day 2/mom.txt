@@ -1,0 +1,24 @@
+Date 8th feb , 2024
+
+last class - set up, utilities/software , html intro 
+- html - markup
+- tags annotations 
+-client server architecture 
+- request - response architecture
+- role of browser (html css js)
+- UI/Frontnend - convert - js 
+i.e react js --> js
+- textual data (heading tag,paragraph,article,list, ol,ul,li,img,anchor tag, hyperlink, attribute (target black- new tab,href , src))
+
+---------------------------------------------------------------------------
+-> form tag 
+-> input tag
+-> submit, reset button
+->semantics html 
+
+-------------------------------------------
+<form>
+</form>
+
+
+
