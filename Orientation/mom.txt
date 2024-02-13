@@ -111,6 +111,70 @@ testing - junit jmocha
 
 
 
+Dicelab@7894
+-------------------------------------------------------
+
+Vikas Chaudhary - dtu - 2017
+2 companies - sr backend engineer
+freelance - full stack
+tech stack - java, c#, mern, aws, devops , microservices
+
+
+Full Stack Web dev -- software engineering /software development 
+
+FSWD- FE+ BE 
+
+FE - Browser , client , ui, forntend
+
+html 
+css
+js -lang   vanilla
+js dom 
+
+------------------
+React js - ui libary - facebook
+redux - state mgmt 
+
+
+---------------front end developer ---------------
+
+backend - node js  - run time env- js code 
+express js  - server 
+db - sql nosql 
+sql 
+nosql = mongo db
+
+-------------------------------------
+MERN STACK - FULL STACK developer
+
+SDLC - 
+
+dev code - application - tester - test - bug -dev - optimize -- dev line of code -- tester - test - pass - code review -- pass-- server - depploy - end user 
+
+
+automate -sdlc - ci cd pipelines - 
+
+dev - one line code - test-code review - pass- server - deploy - end user
+devops - dev+oper (kubernetes and docker)
+
+deployment - AWS-CLOUD
+
++ system design ( lld+ hld)
+lld - oops , design pattern+solid principles
+hld - case study
+
++ DSA (leetocode -400+)
+
+- lc(100)-react
+-lc(250)+mern =10-12
+lc(400)+full stack+aws+devops+sd= 20+
+
+
+
+
+
+
+
 
 
 

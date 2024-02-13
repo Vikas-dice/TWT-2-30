@@ -1,0 +1,11 @@
+Date 13th feb , 2024
+
+HTML - heading , para, p, b, s ,i ,u .block inline , form, img, anchor , input,
+
+
+css selector
+
+slector-name{
+    prop:value
+}
+
