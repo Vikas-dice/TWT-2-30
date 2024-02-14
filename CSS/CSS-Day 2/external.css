@@ -1,0 +1,79 @@
+/* div{
+    background-color: green;
+
+} */
+
+/* #div1{
+    background-color: red;
+}
+#div2{
+    background-color: green;
+}
+
+#div1>h1{
+    color: magenta;
+}
+#div2 p{
+    color: aqua;
+} */
+/* 
+#h1{
+    color: orange;
+} */
+
+
+/* #div22>#div23>#h1{
+    color: blue;
+} */
+
+/* #main{
+    background-color: red;
+    height: 50%;
+    width: 50%;
+  
+} */
+
+/* 
+#box1{
+
+   
+    background-color: red;
+}
+
+#box2{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+} */
+
+
+/* #main{
+    font-size: 100px;
+}
+
+#box1{
+    height: 2em;
+    width: 2em;
+    background-color: orange;
+} */
+
+/* #parent{
+    font-size: 100px;
+}
+
+#child1{
+    height: 2em;
+    width: 2em;
+    background-color: red;
+} */
+
+
+html{
+    font-size: 100px;
+}
+
+#child1{
+    height: 2rem;
+    width: 2rem;
+    background-color: red;
+}

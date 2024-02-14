@@ -1,0 +1,32 @@
+Date 14th feb, 2024
+
+last class - css intro, inline , internal,external
+
+css
+- height n width
+- div
+- typography - text css
+- box model
+-flex
+- grid
+etc
+
+div - html tag - paired tag - open and closiong
+
+
+div - container - multiple elemnts pack
+- div - rectangular shape
+
+
+units -pixel % em rem
+ em rem - font size 
+
+ em - font size - parent 
+ rem - font size - root element 
+
+
+ em - font size - parent 
+
+ rem - font size - root elemtn 
+ html - htm
+ 
