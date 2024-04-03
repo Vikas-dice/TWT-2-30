@@ -1,0 +1,99 @@
+Date 3rd april,2024
+
+Last Class - js intro, history , input , variables, output, ram meory mgmt, loops , conditionals
+
+
+Break
+continue;
+operators
+logical bruteforce questions
+
+dry run
+js - tb lr
+
+l3 i=ram =1
+i<=5 1<=5 
+1<5 true
+l4 j=ram=1
+j<=5 1<=5 true
+l5 vikas 1 1
+j++ j=j+1 j=1+1=2
+j<=5 2<=5 true
+l5 vikas 1 2
+j++
+
+
+..
+j=6
+j<=5 6<=5 false
+i++ i=1+1=2
+
+
+l3 i=ram=1
+i<=5 1<=5 truel4 j=ram=1
+j<=5 1<=5 true
+l5 vikas 1 1 
+l6 break 
+l9 
+i++ i=1+1=2
+i<=5 2<=5 true
+l4 j=ram=1
+j<=5 1<=5 true
+l5 vikas 2 1
+l6 break
+l9 i++ i=3
+
+
+
+l3 i=ram=1
+i<=2 1<=2 truel4 j=ram=1
+j<=3 1<=3 true
+l5 vikas 1 1
+l6 j==2 1==2 false
+l9 vikas
+j++ j=1+1=2
+j<=3 2<=3 true
+l5 vikas 1 2
+l6 j==2 2==2 true
+l7 continue
+j++ j=2+1=3
+j<=3
+3<=3 true
+vikas 1 3
+l6 j==2 3==2 false
+l9 vikas
+
+
+
+l17 num=ram=786
+l18 num>0 786>0 true
+l19 ld=ram=num%10 786%10=6
+l20 6
+l21 num=num/10 =786/10=78.6 =78
+num>0 78>0 true
+ld= 78%10=8
+l20 8
+l21 num=num/10=78/10=7.8 =7
+num=7
+num>0 7>0 true
+l19 ld=7%10=7
+l20 7
+l21 num=7/10=0
+num>0 0>0 false
+
+
+dry run
+l12 num=ram=786
+l13 nod=ram=0
+
+l15 num>0 786>0 true
+l16 num=num/10=786/10 =78.6=78
+nod=nod+1 0+1=1
+num>0 78>0 true
+l16 num=num/10 78/10=7.8 =7
+nod=nod+1 1+1=2
+num>0 7>0 true
+num=num/10 7/10=0
+l17 nod=nod+1 2+1=3
+num>0 0>0 false
+l22 3
