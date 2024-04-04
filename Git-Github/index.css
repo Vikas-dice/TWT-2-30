@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#parent{
+    font-size: 100px;
+    height: 50%;
+    width: 50%;
+    background-color: red;
+}
+
+#box1{
+    height: 1em;
+    width: 2em;
+    background-color: pink;
+}
+#box2{
+    height: 50%;
+    width: 50%;
+    background-color: green;
+}
+#box3{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}

@@ -1,0 +1,32 @@
+Date 19th march , 2024
+
+Last Class - flex  , properties flex items 
+
+Grid
+
+
+
+ /* row gap col gap, fr %* 
+    gap 10px 30px
+    col gap,row gap=
+
+
+grid autoflow row wise 
+
+
+one col fix-
+- grid temp col=300px repeat(2,1fr)
+
+
+variable col-
+auto fiul;l auto fit
+
+   grid-template-columns: repeat(autofill,200px);
+      grid-template-columns: repeat(autofill,minmax(150px.1fr));
+
+
+grid row span 2
+grid col span 2
+
+grid autoflow dense
+

@@ -28,3 +28,11 @@ india team --[ central folder/data base]----us team
 
 lorem10
 hello world 
+
+--------------------------------------
+Date 7th march,2024
+
+units- pixel % rem em vh vw
+
+rem - root element - html - font size -depend
+em - parent - font size - depend

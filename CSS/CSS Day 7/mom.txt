@@ -1,0 +1,35 @@
+
+Date 27th march , 2024
+
+Last Class - Media query intro
+
+
+resolutions 
+
+mobile/smartphone - <=480px
+tab- <=768px
+tab landscape - <=1024px
+laptop <=1600px
+
+desktop - >1600 -<2000
+
+big screen <2000px+
+
+
+screen 0-800px
+max-width:800
+ screen 200=700
+ min-width :200px
+
+ screen 200-1000
+ min-width 300
+ max-width 800
+
+
+
+syntax
+
+
+@media (max-width:768px){
+    //css 
+}

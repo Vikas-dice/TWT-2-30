@@ -1,0 +1,36 @@
+h1{
+    background-color: red;
+    color: black;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+@media (max-width:768px){
+    h1{
+        background-color: yellow;
+        color: green;
+    font-size: 50px;
+    }
+}
+
+/* @media (min-width:300px){
+    h1{
+        background-color: blue;
+        font-size: 70px;
+        background-color: aqua;
+    }
+} */
+
+
+
+@media (min-width:768px) and (max-width:1600px){
+    h1{
+        background-color: brown;
+        border: 2px solid black;
+        border-radius: 20px;
+        color: white;
+        text-decoration: dotted;
+        text-align: center;
+
+    }
+}

@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#container{
+
+    display: flex;
+    height: 600px;
+    width: 600px;
+    background-color: skyblue;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+
+}
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+
+}
+#box2{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    align-self: flex-end;
+    
+}
+#box3{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    align-self: flex-end;
+}
+#box4{
+    height: 100px;
+    width: 100px;
+    background-color: blue
+}

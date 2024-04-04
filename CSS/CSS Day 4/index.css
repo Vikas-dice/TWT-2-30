@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+
+#container{
+    height: 600px;
+    width: 600px;
+    display: flex;
+    background-color: cyan;
+    flex-wrap: wrap;
+    /* align-content: stretch; */
+
+}
+#box1{
+    height: 300px;
+    width: 300px;
+    background-color: magenta;
+}
+#box2{
+    height: 300px;
+    width: 300px;
+    background-color: pink;
+}
+
+#box3{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+}

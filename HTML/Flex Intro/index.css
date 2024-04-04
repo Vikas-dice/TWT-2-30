@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#parent{
+    height: 700px;
+    width: 700px;
+    background-color: red;
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+    align-items: end;
+    /* flex-direction: column; */
+}
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+
+}
+#box2{
+    height: 100px;
+    width: 100px;
+    background-color: magenta;
+    
+}
+#box3{
+    height: 100px;
+    width: 100px;
+    background-color: yellowgreen;
+    
+}
+.mybox{
+    height: 200px;
+    width: 200px;
+    background-color: cyan;
+}
+
+#parent>.mybox{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}

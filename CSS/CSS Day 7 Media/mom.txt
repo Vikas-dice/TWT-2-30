@@ -1,0 +1,26 @@
+<=480 mobile
+<=768 tabs
+<=1024 tablet landscape
+<=1600 laptop
+>1600 desktop
+big screens
+
+
+0-800 end point 
+max width 800
+
+
+min-width 1000-2000+
+
+desktop - min width 1024px
+tablet -min width 768, max width 1023px
+
+smarphone max-width 767px
+
+syntax
+
+@media (max-width:768){
+    box{
+        display:none;
+    }
+}

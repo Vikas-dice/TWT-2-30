@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+html{
+    font-size: 50px;
+}
+
+#parent{
+    font-size: 2rem;
+    height: 2rem;
+    width: 2rem;
+    background-color: pink;
+}
+
+#box1{
+    height: 2rem;
+    width: 1em;
+    background-color: green;
+}
+
+#box2{
+    height: 2rem;
+    width: 2rem;
+    background-color: orange;
+}
+
+#box3{
+    height: 0.5rem;
+    width:0.5em;
+    background-color: magenta;
+}

@@ -1,0 +1,33 @@
+
+
+.container{
+    max-width: 1440px;
+    height: 500px;
+    border: 20px solid black;
+    display: grid;
+    grid-template-columns: repeat(3,150px);
+    gap: 10px;
+    margin: auto;
+    /* justify-items: start;
+    align-items: start; */
+    /* place-items: end start; */
+    /* justify-content: space-between; */
+    /* align-content: end; */
+    /* place-content: center space-between; */
+
+
+}
+.item{
+    background-color: blue;
+    color: red;
+    padding: 10px;
+    border: 2px solid aqua;
+
+}
+
+.item1{
+    /* align-self: flex-start;
+    justify-self: end; */
+    place-self: center end;
+
+}
