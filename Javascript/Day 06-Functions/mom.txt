@@ -1,0 +1,28 @@
+Date 16th april, 2024
+
+Last Class - number traversal
+
+Functions 
+
+dry run
+
+l14 right side
+l5 num=7818
+l6 nod=0
+l7 num>0 7818>0 true
+l8 num=7818/10=781.8=781
+l9 nod++ nod0+1=1
+l7 num>0 781>0 true
+l8 num=781/10=78.1 =78
+l9 nod++ nod=2
+l7 num>0 78>0 true
+l8 num=78/10=7.8=7
+l9 nod++ nod=3
+l7 num>0 7>0 true
+l8 num=7/10=0
+l9nod++ nod=4
+l7 num>0 0>0 false
+l11 return 4
+
+l14 left side
+ans=4;
