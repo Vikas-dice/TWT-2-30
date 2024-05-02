@@ -1,0 +1,26 @@
+log.dir(btn)
+btn.onclickd(){
+    func(event)
+
+}
+
+3-btn,addeventlis(""eventname,func)
+
+
+//this keyword 
+addve-normal fun-this.elet
+ 
+
+ mouse evenents
+ //click, dbclick, mouse ebeter, mouse over ,out
+
+
+ keyborad - input type text id input
+
+ keypress, up and down
+
+ let int =selec
+
+ inp,addbe("keyp[re,func])
+ evt,target,values;
+ 

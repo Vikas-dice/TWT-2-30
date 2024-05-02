@@ -1,0 +1,11 @@
+Date 24th april , 2024
+
+Last Class - object cloning , deep copy shallow copy, rest and spread operators
+
+-Array Traversal - for while do while forEach loop
+- this keyword 
+- this keyword in diff diff situations 
+- array methods 
+
+
+

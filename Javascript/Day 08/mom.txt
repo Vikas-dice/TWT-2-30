@@ -1,0 +1,10 @@
+Date 23rd april, 2024
+
+Last Class - array intro, object intro, memory mgmt
+
+Deep copy and shallow copy
+rest and spread operators
+objects cloning merging copy
+
+data types - primi and non primt
+

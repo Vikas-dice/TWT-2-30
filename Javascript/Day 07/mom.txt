@@ -1,0 +1,9 @@
+Date 18th april, 2024
+
+Last Class - functions (es5 es6).callstack intro, return , first class members .
+
+array , object , deep copy shallow copy , merging 
+
+
+
+
