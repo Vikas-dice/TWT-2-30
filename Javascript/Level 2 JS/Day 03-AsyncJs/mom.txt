@@ -1,0 +1,12 @@
+callbacks 
+callback hell
+inversion of control
+
+promises 
+promise chaining 
+
+
+callback-issues
+1- ioc 
+2- code read and maintain
+3- code grow horizonatally
