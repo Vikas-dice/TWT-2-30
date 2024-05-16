@@ -1,0 +1,14 @@
+Dom = document object model
+
+dom tree 
+
+selectors- html , queryselctor
+
+html - getid , gettag,getclassname
+events 
+
+
+html - 
+
+
+

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ 
+    <h1 id="heading1">hello world</h1>
+    <h2 class="heading2">hey world</h2>
+    <h2 class="heading2">hey world</h2>
+    <h2 class="heading2">hey world</h2>
+    <h2 class="heading2">hey world</h2>
+    <h3>hi world </h3>
+
+    <p>Lorem ipsum dolor sit amet.</p>
+
+
+    <script>
+        // console.log(document);
+       let heading1= document.getElementById("heading1")
+       console.log(heading1);
+
+      let heading2= document.getElementsByClassName("heading2")
+      console.log(heading2);
+
+    //   for(const elt of heading2){
+    //     console.log(elt);
+    //   }
+
+    // for(let idx=0;idx<heading2.length;idx++){
+    //     console.log(heading2[idx]);
+    // }
+
+    // let idx=0;
+    // while(idx<heading2.length){
+    //     console.log(heading2[idx]);
+    //     idx++;
+    // }
+
+
+    //getletagname
+
+let para=document.getElementsByTagName("p")
+console.log(para);
+console.log(para[0]);
+
+
+    </script>
+
+
+</body>
+</html>

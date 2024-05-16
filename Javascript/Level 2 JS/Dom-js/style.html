@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .red{
+            color: red;
+            background-color: pink;
+            border: 10px;
+            border-radius: 5px;
+
+
+        }
+        .green{
+            color: green;
+            background-color: black;
+
+        }
+        .neeli{
+            color: blue;
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+
+    <button >click me </button>
+
+    <script>
+        let btn =document.querySelector("button")
+
+        console.log(btn);
+        btn.className="red";
+        btn.className="green"
+
+        //classlist
+        btn.classList.add("neeli")
+        btn.classList.remove("neeli")
+
+
+
+    </script>
+    
+</body>
+</html>
